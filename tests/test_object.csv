@@ -1,0 +1,27 @@
+input sentence,expected od,od
+el cartero trae las cartas,las cartas,las cartas
+lo matamos a su padre,su padre,None
+estoy lidiando con mis alumnos de la facultad durante todo el mes,None,None
+a los niños debemos educarlos con propiedad,los niños,None
+puedes comprarlo para navidad,lo,puedes comprarlo
+ella odia correr por el parque a la noche,correr por el parque a la noche,correr
+a el hombre lo atacaron ayer por la espalda,el hombre,None
+"cuchillo en mano, el hombre mata a la mujer",la mujer,a la mujer
+tienen que dejar de fumar cigarrillos,None,cigarrillos
+todos los meses llegaba el cartero con una excelente noticia,None,el cartero
+vos y yo somos tal para cual,None,None
+las mujeres necesitamos comer todos los días,comer todos los días,comer
+"durante toda la noche me dijo eso, mi amigo",eso,eso
+odio caminar por el bosque,caminar por el bosque,caminar
+me gusta caminar por el bosque,None,None
+un hombre puede cambiar el mundo,el mundo,el mundo
+el perro y el gato son dos animales,None,None
+todo lo dicho es para bien,None,None
+los hombres pueden haber sido malos,None,None
+"lloraba mucho, las manos apretadas",None,None
+lloraba mucho la condesa de Londres,None,la condesa de Londres
+"la casa, pese a las opiniones ajenas, no debe estar ubicada en la colina",None,None
+ella puede comer de todo,de todo,None
+la casa no estaba en venta,None,None
+mi colega y yo trabajamos en conjunto para desarrollar estos algoritmos,None,None
+llueve en la ciudad sin parar,None,None

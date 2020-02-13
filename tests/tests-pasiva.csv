@@ -1,0 +1,7 @@
+input sentence,expected principal verb,expected subject,expected od
+el alimento fue comido por los animales,comer,los animales,el alimento
+la batalla fue ganada,ganar,alguien,la batalla
+durante noches enteras fueron perseguidas las mujeres,perseguir,algo,las mujeres
+hemos sido perseguidas días enteros por las asesinas,perseguir,las asesinas,nosotras
+Que nos portemos mal será visto por nuestros hijos ,ver,nuestros hijos,que nos portemos mal
+ganarse el pan es deseado por todos nosotros,desear,todos nosotros,ganarse el pan
